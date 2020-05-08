@@ -1,0 +1,33 @@
+*{
+margin: 0;
+padding: 0;
+
+
+}
+
+body{
+
+  width: auto;
+  height: 2000px;
+
+
+background-size: cover;
+  background-color: white;
+}
+
+.background-image{
+
+border: 400px solid white;
+height: 1000px;
+width: 1000px;
+background-image: url("../image/nilesh.jpeg");
+
+background-size: auto;
+
+}
+
+h1{
+  text-decoration-color: #fff;
+
+  text-align: center;
+}
